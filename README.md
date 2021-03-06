@@ -13,9 +13,8 @@ Other Curated List of Useful Learning Resources
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `This repository contains scripts and files used for` [Docker Essentials Guided Project at Coursera](https://www.coursera.org/projects/docker-container-essentials-web-app) `and other useful study notes around Docker.`
 
-## Docker Notes & Best Practices
+### Bonus! Docker Notes & Best Practices
 
-### Table Content
 ```
 1. Docker Architecture
 3. Cheat Sheet
