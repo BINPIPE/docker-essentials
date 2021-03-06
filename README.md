@@ -11,8 +11,7 @@ Other Curated List of Useful Learning Resources
 <mark>:ledger:[DevOps Video Playlist-1](https://www.youtube.com/playlist?list=PLSo0pjml8Hm-_wolCCFxJ4tkT10uBtSjy)</mark>
 <mark>:ledger:[DevOps Video Playlist-2](https://www.youtube.com/playlist?list=PLSo0pjml8Hm9TnuJyttYuEgRzK1RtvYbM)</mark>
 
-#### This repository contains scripts and files used for [Docker Essentials Guided Project at Coursera](https://www.coursera.org/projects/docker-container-essentials-web-app) and other useful reading notes about Docker.
-
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `This repository contains scripts and files used for` [Docker Essentials Guided Project at Coursera](https://www.coursera.org/projects/docker-container-essentials-web-app) and other useful study notes around Docker.
 
 ## Docker Notes & Best Practices
 
